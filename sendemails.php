@@ -1,4 +1,5 @@
-<?php use PHPMailer\PHPMailer\PHPMailer;
+<?php // written by Adam Lloyd - https://adam-lloyd.net - and copyright to his employers
+use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
 require_once("PHPMailer/src/Exception.php");
